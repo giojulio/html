@@ -1,0 +1,37 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Cosmic Recipes - Brownie </title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Cosmic Brownies</h1>
+    <p>Journey food!</p>
+    <figure>
+      <img src="https://www.simplyrecipes.com/thmb/suKsJkGkpJvJyUGG2CoabRCePqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipes_CosmicBrownies_LEAD_11-2f9bf50c944345698b442c0b1940c801.jpg" alt="them brownies">
+      <figcaption>them delicioussss</figcaption>
+    </figure>
+    <section>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>Cannabutter, like some of it (50g?)</li>
+        <li>Some ccocoa powder</li>
+        <li>Lil flour</li>
+        <li>No more than 2 eggs</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Just fold it all together and bake it.</li>
+        <li>Really bro you just gotta make sure everything is soft and then you bake on a cozy oven for a lil bit. they finish cooking outside!</li>
+        <li>dude c'mon it's just brownies.</li>
+        <li>how do you not know this man.</li>
+      </ol>
+  </body>
+</html>
+
+** end of index.html **
+
