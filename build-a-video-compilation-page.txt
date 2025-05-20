@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Culural presence in my day-to-day</h1>
+        <p>Some labs using media that also connects to me!</p>
+        <section>
+            <h2>What I use when I'm studying</h2>
+            <p>There's an actual, serious, study about listening to Mozart and becoming more efficient brainwise</p>
+            <iframe src="https://www.youtube.com/watch?v=7JmprpRIsEY" title="Brain Power with Mozart and more" height="200" width="300"></iframe>
+        </section>
+        <section>
+            <h2>My current addiction</h2>
+            <p>On repeat, got me excited to learn French!</p>
+            <iframe src="https://www.youtube.com/watch?v=AGgfFGrN88s" title="Ekko and Jinx Magic" height="200" width="300"></iframe>
+        </section>
+        <section>
+            <h2>A teaser from my favorite TV show</h2>
+            <p>This is an artistic masterpiece, I'm in love with Ben Stiller ever since. Best episodes are directed by this beast!</p>
+            <iframe src="https://www.youtube.com/watch?v=xEQP4VVuyrY" title="Severance Teaser" height="200" width="300"></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
